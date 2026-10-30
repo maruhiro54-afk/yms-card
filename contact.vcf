@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:丸田;寛道;;;
+FN:丸田 寛道
+X-PHONETIC-FIRST-NAME:ヒロミチ
+X-PHONETIC-LAST-NAME:マルタ
+ORG:横浜マシンサービス有限会社
+TEL;TYPE=CELL:+81-90-1112-9454
+TEL;TYPE=WORK:+81-466-46-6642
+EMAIL;TYPE=WORK:fujisawa2@y--m-s.jp
+ADR;TYPE=WORK:;;神奈川県藤沢市土棚8 いすゞ自動車株式会社内;藤沢市;神奈川県;252-0881;日本
+ADR;TYPE=OTHER:;;神奈川県横浜市都筑区川向町1289-1;横浜市;神奈川県;224-0044;日本
+END:VCARD
